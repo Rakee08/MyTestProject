@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="16B2657" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="CollectionCell" id="ygZ-sc-u5b" customClass="CollectionCell">
+            <rect key="frame" x="0.0" y="0.0" width="80" height="80"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="80" height="80"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="DdU-wS-M8F" customClass="AsyncImageView">
+                        <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="40" id="ons-MW-uOd"/>
+                            <constraint firstAttribute="width" constant="40" id="xIl-9S-HNs"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="ons-MW-uOd"/>
+                                <exclude reference="xIl-9S-HNs"/>
+                            </mask>
+                        </variation>
+                        <variation key="heightClass=regular-widthClass=compact">
+                            <mask key="constraints">
+                                <include reference="ons-MW-uOd"/>
+                                <include reference="xIl-9S-HNs"/>
+                            </mask>
+                        </variation>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cgZ-Cg-KNL">
+                        <rect key="frame" x="-42" y="-21" width="42" height="21"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="78.5" id="a4v-jw-Nrz"/>
+                            <constraint firstAttribute="height" constant="26.5" id="rFf-ez-OEf"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="12"/>
+                        <nil key="highlightedColor"/>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="a4v-jw-Nrz"/>
+                                <exclude reference="rFf-ez-OEf"/>
+                            </mask>
+                        </variation>
+                        <variation key="heightClass=regular-widthClass=compact">
+                            <mask key="constraints">
+                                <include reference="a4v-jw-Nrz"/>
+                                <include reference="rFf-ez-OEf"/>
+                            </mask>
+                        </variation>
+                    </label>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            </view>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="cgZ-Cg-KNL" secondAttribute="trailing" id="ABM-5z-Ryx"/>
+                <constraint firstItem="DdU-wS-M8F" firstAttribute="centerX" secondItem="ygZ-sc-u5b" secondAttribute="centerX" id="BpP-Q3-DDa"/>
+                <constraint firstItem="cgZ-Cg-KNL" firstAttribute="leading" secondItem="ygZ-sc-u5b" secondAttribute="leading" id="SPr-MU-unj"/>
+                <constraint firstItem="DdU-wS-M8F" firstAttribute="top" secondItem="ygZ-sc-u5b" secondAttribute="top" constant="8" id="k1O-7r-1tf"/>
+                <constraint firstItem="cgZ-Cg-KNL" firstAttribute="top" secondItem="DdU-wS-M8F" secondAttribute="bottom" constant="4" id="qWV-TE-tkc"/>
+                <constraint firstAttribute="bottom" secondItem="cgZ-Cg-KNL" secondAttribute="bottom" id="rrm-i6-m9P"/>
+            </constraints>
+            <size key="customSize" width="86" height="94"/>
+            <variation key="default">
+                <mask key="subviews">
+                    <exclude reference="DdU-wS-M8F"/>
+                    <exclude reference="cgZ-Cg-KNL"/>
+                </mask>
+                <mask key="constraints">
+                    <exclude reference="ABM-5z-Ryx"/>
+                    <exclude reference="SPr-MU-unj"/>
+                    <exclude reference="qWV-TE-tkc"/>
+                    <exclude reference="rrm-i6-m9P"/>
+                    <exclude reference="BpP-Q3-DDa"/>
+                    <exclude reference="k1O-7r-1tf"/>
+                </mask>
+            </variation>
+            <variation key="heightClass=regular-widthClass=compact">
+                <mask key="subviews">
+                    <include reference="DdU-wS-M8F"/>
+                    <include reference="cgZ-Cg-KNL"/>
+                </mask>
+                <mask key="constraints">
+                    <include reference="ABM-5z-Ryx"/>
+                    <include reference="SPr-MU-unj"/>
+                    <include reference="qWV-TE-tkc"/>
+                    <include reference="rrm-i6-m9P"/>
+                    <include reference="BpP-Q3-DDa"/>
+                    <include reference="k1O-7r-1tf"/>
+                </mask>
+            </variation>
+            <connections>
+                <outlet property="objItemImage" destination="DdU-wS-M8F" id="ERu-GD-EE9"/>
+                <outlet property="objitemName" destination="cgZ-Cg-KNL" id="wWg-JK-41b"/>
+            </connections>
+            <point key="canvasLocation" x="220.5" y="220.5"/>
+        </collectionViewCell>
+    </objects>
+</document>

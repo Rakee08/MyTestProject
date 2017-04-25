@@ -1,0 +1,82 @@
+{
+    "CategoryName" : "Biscuits",
+    "CategoryList" : [
+                      {
+                      "MenuName" :"Oreo Choco Cream + Original Vanilla cream + Straberry Cream Biscuit",
+                      "Offer" : true,
+                      "OfferPercentage" : 7,
+                      "Price" : 105,
+                      "Unit" : "150gm + 150gm + 150gm",
+                      "Contents" : "Oreo Choco Cream Biscuit - 150gm , Original Vanilla cream Biscuit - 150gm, Oreo Straberry Cream Biscuit - 150gm",
+                      "ImgURL" : "https://cdn.grofers.com/app/images/products/full_screen/pro_353279.jpg",
+                      "Weight" : ["150gm"]
+                      },
+                      
+                      {
+                      "MenuName" :"Britannia Bourbon the Original Biscuit - Buy 4 get 1 free",
+                      "Offer" : false,
+                      "OfferPercentage" : 0,
+                      "Price" : 80,
+                      "Unit" : "5 x 120gm",
+                      "Contents" : "Treat your taste buds to the rich taste of Britannia Bourbon chocolate biscuit. Luscious chocolate cream sandwiched between two crunchy-chocolaty biscuits, this delectable treat is perfect to satisfy those sweet urges.",
+                      "ImgURL" : "http://www.needsthesupermarket.com/21116-thickbox_default/bourbon-the-original-biscuits-buy-4-get-1-free.jpg",
+                      "Weight" : ["120gm"]
+
+                      },
+                      {
+                      "MenuName" :"Parle Krackjack sweet & salty crackers Biscuits",
+                      "Offer" : true,
+                      "OfferPercentage" : 14,
+                      "Price" : 50,
+                      "Unit" : "2 x 200gm",
+                      "Contents" : "Parle KrackJack is a crispy-delecious biscuit with the perfect balance of sweetness and saltiness. Savour the rich taste of theis all-time favourite biscuit with your evening cup of tea or coffee.",
+                      "ImgURL" : "https://cdn.grofers.com/app/images/products/full_screen/pro_237908.jpg",
+                      "Weight" : ["200gm"]
+
+                      },
+                      {
+                      "MenuName" :"KitKat chocolate - Buy 4 get 1 free",
+                      "Offer" : 20,
+                      "OfferPercentage" : 20,
+                      "Price" : 125,
+                      "Unit" : "5 x 37gm",
+                      "Contents" : "Indulge yourself in a rich chocolaty experience with Nestle KitKat Original Chocolate. Crisp wafers covered in smooth chocolate layer make this absolute delight, an irresistible treat.",
+                      "ImgURL" : "https://cdn.grofers.com/app/images/products/normal/pro_268195.jpg",
+                      "Weight" : ["37gm"]
+
+                      },
+                      {
+                      "MenuName" :"Munch Nuts chocolate - Buy 4 get 1 free",
+                      "Offer" : true,
+                      "OfferPercentage" : 20,
+                      "Price" : 100,
+                      "Unit" : "5 x 32gm",
+                      "Contents" : "Buy 4 get 1 Free",
+                      "ImgURL" : "https://cdn.grofers.com/app/images/products/normal/pro_356609.jpg",
+                      "Weight" : ["32gm"]
+
+                      },
+                      {
+                      "MenuName" :"MilkyBar chocolate - Buy 4 get 1 free",
+                      "Offer" : true,
+                      "OfferPercentage" : 20,
+                      "Price" : 100,
+                      "Unit" : "5 x 26gm",
+                      "Contents" : "Nestle MilkyBar chocolate is a melt-in-the-mouth, scrumptions treat for all the chocolate lovers. An all time favourite, it offers a delectable and irresistible taste with every bite and leaves one asking for more.",
+                      "ImgURL" : "https://cdn.grofers.com/app/images/products/full_screen/pro_304911.jpg",
+                      "Weight" : ["26gm"]
+
+                      },
+                      {
+                      "MenuName" :"Dairymilk Silk",
+                      "Offer" : true,
+                      "OfferPercentage" : 15,
+                      "Price" : 240,
+                      "Unit" : "2 x 50gm",
+                      "Contents" : "Cadbury Dairy Milk is a brand of milk chocolate currently manufactured by Cadbury, except in the United States where it is made by The Hershey Company. It was introduced in the United Kingdom in 1905 and now consists of a number of products. Every product in the Dairy Milk line is made with exclusively milk chocolate.",
+                      "ImgURL" : "https://cdn.grofers.com/app/images/products/normal/pro_327862.jpg",
+                      "Weight" : ["32gm","55gm","105gm","200gm"]
+
+                      }
+   ]
+}

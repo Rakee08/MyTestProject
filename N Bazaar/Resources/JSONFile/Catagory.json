@@ -1,0 +1,176 @@
+
+{
+    
+    "GetCatagoryArray":[
+                        {
+                        "CatagoryName":"Grocery & Staples",
+                        "Description":"Only Shop which sells Staples & Grocery online. Buy Grocery staples online & get free home delivery. Do staples online shopping at Staples store India.",
+                        "CatogoryImage":"https://cdn.grofers.com/app/images/category/cms_images/icon/icon_cat_16_v_3_500_1482750584.jpg",
+                        "ItemsArray":[
+                                      {
+                                      "ItemImageUrl":"http://www.clipartkid.com/images/6/rice-clipart-by-sa-jin-gi-on-deviantart-PxXM0d-clipart.jpg",
+                                      "ItemName":"Rice"
+                                      
+                                      },
+                                      {
+                                      "ItemImageUrl":"https://4.imimg.com/data4/TL/QG/MY-10690004/wheat-bag-250x250.jpg",
+                                      "ItemName":"Atta & others"
+                                      
+                                      },
+                                      {
+                                      "ItemImageUrl":"https://cdn1.iconfinder.com/data/icons/shopping-3-4/128/109-512.png",
+                                      "ItemName":"Edible Oils"
+                                      },
+                                      {
+                                      "ItemImageUrl":"http://www.aashirvaadsvasti.in/Images/homepage/circle-icon-one.png",
+                                      "ItemName":"Ghee & Vanaspathi"
+                                      
+                                      },
+                                      {
+                                      "ItemImageUrl":"http://comps.canstockphoto.com/can-stock-photo_csp16246653.jpg",
+                                      "ItemName":"Salt & Sugar"
+                                      
+                                      },{
+                                      "ItemImageUrl":"https://cdn0.iconfinder.com/data/icons/kitchen-and-cooking/512/spices_seasoning_spice_condiment_ingredient_flat_design_icon-512.png",
+                                      "ItemName":"Spices"
+                                      
+                                      },
+                                      {
+                                      "ItemImageUrl":"https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRU49dpylzgrL7tkoRTQSHnQVWCoNuLTPdeCcCOlLwld5zUrguw",
+                                      "ItemName":"Pulses"
+                                      
+                                      }
+                                      ]
+                        
+                        },{
+                        "CatagoryName":"Personal Care",
+                        "Description":"Find all types of Personal Care products at nBazaar personal care market. Buy beauty and personal care products online in India at best prices",
+                        "CatogoryImage":"http://www.freeiconspng.com/uploads/makeup-png-15.png",
+                        "ItemsArray":[
+                                      {
+                                      "ItemImageUrl":"https://image.freepik.com/free-vector/bathroom-flat-icons-pack_23-2147495077.jpg",
+                                      "ItemName":"Bath & Body"
+                                      
+                                      },
+                                      {
+                                      "ItemImageUrl":"http://popham.com/wp-content/uploads/2014/07/brush-icon-300x300.png",
+                                      "ItemName":"Hair Care"
+                                      
+                                      },
+                                      {
+                                      "ItemImageUrl":"https://cdn4.iconfinder.com/data/icons/beautix-circular/125/beautix_cream_pot-512.png",
+                                      "ItemName":"Skin Care"
+                                      
+                                      },
+                                      {
+                                      "ItemImageUrl":"http://www.healthecny.org/content/sites/hec/Icon_OralHealth.png",
+                                      "ItemName":"Oral Care"
+                                      
+                                      },
+                                      {
+                                      "ItemImageUrl":"https://www.iconexperience.com/_img/g_collection_png/standard/512x512/perfume.png",
+                                      "ItemName":"Deos & Perfumes"
+                                      
+                                      }
+                                      ,
+                                      {
+                                      "ItemImageUrl":"https://cdn0.iconfinder.com/data/icons/beauty-vol-6/128/Beauty-95-512.png",
+                                      "ItemName":"Face Care"
+                                      
+                                      },
+                                      {
+                                      "ItemImageUrl":"http://sr.photos2.fotosearch.com/bthumb/CSP/CSP475/k4751610.jpg",
+                                      "ItemName":"Shaving Needs"
+                                      
+                                      }
+                                      ,
+                                      {
+                                      "ItemImageUrl":"https://cdn1.iconfinder.com/data/icons/shopping-hand-drawn-1/128/33-512.png",
+                                      "ItemName":"Cosmetics"
+                                      
+                                      }
+                                      
+                                      
+                                      ]
+                        },{
+                        "CatagoryName":"Snacks & Biscuits",
+                        "Description":"Buy Biscuits & Snacks Online in India at best prices. Wide range of Biscuits & Snacks from top brands available on nBazaar.",
+                        "CatogoryImage":"http://sgkfood.com.my/wp/wp-content/uploads/2015/02/lunch-icon-2.png",
+                        "ItemsArray":[
+                                      {
+                                      "ItemImageUrl":"https://cdn0.iconfinder.com/data/icons/food-icons-rounded/110/Chocolate-512.png",
+                                      "ItemName":"chocolates"
+                                      
+                                      },
+                                      {
+                                      "ItemImageUrl":"https://cdn0.iconfinder.com/data/icons/food-volume-2-3/256/34-512.png",
+                                      "ItemName":"Biscuits & Cookies"
+                                      
+                                      },
+                                      {
+                                      "ItemImageUrl":"https://image.shutterstock.com/z/stock-vector-flat-design-vector-chips-icon-with-long-shadow-isolated-340227230.jpg",
+                                      "ItemName":"Chips & Crisps"
+                                      
+                                      },
+                                      {
+                                      "ItemImageUrl":"http://icons.iconarchive.com/icons/graphicloads/food-drink/256/sweet-icon.png",
+                                      "ItemName":"Sweets"
+                                      
+                                      }
+                                      
+                                      ]
+                        }
+                        ,{
+                        "CatagoryName":"Beverages",
+                        "Description":"Buy Beverages Online in India at best prices. Wide range of Beverages from top brands available on nBazaar.",
+                        "CatogoryImage":"http://www.freeiconspng.com/uploads/food-and-neverage-png-17.png",
+                        "ItemsArray":[
+                                      {
+                                      "ItemImageUrl":"http://www.freeiconspng.com/uploads/food-and-neverage-png-17.png",
+                                      "ItemName":"Soft Drinks"
+                                      
+                                      },
+                                      {
+                                      "ItemImageUrl":"http://www.iconarchive.com/download/i86816/graphicloads/food-drink/apple-2.ico",
+                                      "ItemName":"Juices"
+                                      
+                                      },
+                                      {
+                                      "ItemImageUrl":"https://cdn4.iconfinder.com/data/icons/green-shopper/1043/TeaCup.png",
+                                      "ItemName":"Tea & Coffee"
+                                      
+                                      },
+                                      {
+                                      "ItemImageUrl":"http://www.pngmart.com/files/1/Water-Bottle-Icon-PNG.png",
+                                      "ItemName":"Soda & Water"
+                                      
+                                      }
+                                      
+                                      ]
+                        }
+                        ,{
+                        "CatagoryName":"Baby & Kids",
+                        "Description":"Buy Baby & Kids care items Online in India at best prices. Wide range of items from top brands available on nBazaar.",
+                        "CatogoryImage":"https://stocklogos-pd.s3.amazonaws.com/styles/logo-medium-alt/bb_7.png?itok=TmGvW4kH",
+                        "ItemsArray":[
+                                      {
+                                      "ItemImageUrl":"http://kaseytrenum.com/wp-content/uploads/2013/11/icon-diaper-illustration.png",
+                                      "ItemName":"Diapers & Wipes"
+                                      
+                                      },
+                                      {
+                                      "ItemImageUrl":"https://cdn1.iconfinder.com/data/icons/children-collection-2/110/icon_baby_food-256.png",
+                                      "ItemName":"Baby Food"
+                                      
+                                      },
+                                      {
+                                      "ItemImageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX6quDDt9FCL3BXRWLYXFSamrsnxZ0X5rXWepyaOQbegP0M2Sv",
+                                      "ItemName":"Baby Accessories"
+                                      
+                                      }
+                                      ]
+                        }
+
+
+                        ]
+}
